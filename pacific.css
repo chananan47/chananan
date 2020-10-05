@@ -17,10 +17,11 @@ body{
    box-shadow: 3px 3px 3px black;
 }
 header{
-    background-color:orange ;
-     color:black;
+    background-color:#000033 ;
+    color:rebeccapurple;
     background-image: url(images/sunset.jpg);
     background-position: right;
+    background-repeat: no-repeat;
     text-align: center;
     height:60px;
     padding-top: 15px;
@@ -70,6 +71,7 @@ h2{
 }
 
 footer{
+    color: black;
     font-size: 75%;
     font-style: italic;
     font-family: Georgia;
